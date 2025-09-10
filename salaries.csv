@@ -1,0 +1,501 @@
+Experience,Education,JobRole,Location,Industry,Salary
+6,Masters,Analyst,Austin,Healthcare,97704
+19,PhD,Manager,Austin,Finance,157018
+14,Bachelors,Data Scientist,Remote,Finance,117641
+10,Masters,Software Engineer,Remote,Education,102813
+7,PhD,Data Scientist,New York,Healthcare,129638
+20,PhD,Data Scientist,New York,Tech,155259
+6,Masters,Data Scientist,San Francisco,Finance,130663
+18,Bachelors,Data Scientist,Remote,Healthcare,117596
+10,Masters,Software Engineer,San Francisco,Healthcare,122393
+10,PhD,Data Scientist,New York,Finance,130008
+20,High School,Software Engineer,San Francisco,Education,122581
+3,High School,Software Engineer,New York,Finance,92732
+7,Masters,Manager,Remote,Finance,123990
+2,PhD,Analyst,Austin,Tech,89518
+20,High School,Analyst,Remote,Tech,115441
+1,PhD,Software Engineer,San Francisco,Education,109302
+11,Masters,Manager,San Francisco,Healthcare,139540
+5,High School,Software Engineer,Remote,Finance,79800
+1,PhD,Software Engineer,Remote,Education,98063
+20,High School,Software Engineer,New York,Tech,114732
+0,Masters,Manager,San Francisco,Finance,116881
+11,PhD,Analyst,San Francisco,Healthcare,138570
+11,High School,Manager,Remote,Tech,101046
+16,Masters,Data Scientist,Austin,Tech,133087
+9,High School,Manager,San Francisco,Tech,117350
+15,High School,Manager,Austin,Education,110478
+14,Bachelors,Manager,Remote,Healthcare,115752
+14,Bachelors,Manager,Remote,Finance,124824
+18,Masters,Analyst,New York,Education,136017
+11,Bachelors,Data Scientist,San Francisco,Education,114711
+19,Masters,Analyst,Austin,Education,122005
+2,Bachelors,Analyst,New York,Tech,94253
+4,High School,Manager,San Francisco,Healthcare,105527
+18,Masters,Software Engineer,New York,Education,134935
+6,Masters,Software Engineer,Remote,Finance,110193
+20,High School,Analyst,San Francisco,Healthcare,111284
+8,Masters,Analyst,New York,Finance,124167
+6,Masters,Manager,New York,Healthcare,113268
+17,Bachelors,Analyst,Austin,Finance,120513
+3,Masters,Manager,New York,Tech,112228
+13,PhD,Software Engineer,San Francisco,Education,133679
+17,High School,Software Engineer,San Francisco,Finance,125643
+8,Bachelors,Data Scientist,Austin,Healthcare,104606
+20,Bachelors,Software Engineer,San Francisco,Education,130109
+1,PhD,Analyst,Remote,Education,98068
+19,High School,Software Engineer,San Francisco,Healthcare,122267
+14,High School,Manager,San Francisco,Finance,126779
+6,Bachelors,Software Engineer,New York,Tech,106820
+11,Masters,Data Scientist,New York,Tech,132947
+7,Bachelors,Software Engineer,San Francisco,Finance,107861
+14,High School,Manager,Austin,Education,108987
+2,PhD,Manager,New York,Education,120505
+13,Bachelors,Analyst,Austin,Education,97512
+16,High School,Software Engineer,San Francisco,Education,116878
+3,Bachelors,Manager,San Francisco,Finance,115249
+17,Masters,Data Scientist,Remote,Education,122627
+7,Bachelors,Analyst,New York,Healthcare,95134
+3,Bachelors,Data Scientist,San Francisco,Education,99077
+1,High School,Software Engineer,Remote,Tech,66518
+5,High School,Software Engineer,New York,Education,75799
+9,High School,Software Engineer,San Francisco,Finance,115972
+3,Bachelors,Analyst,San Francisco,Tech,91765
+17,Masters,Manager,New York,Finance,144043
+11,PhD,Analyst,New York,Finance,121233
+1,PhD,Data Scientist,New York,Tech,113805
+9,High School,Analyst,San Francisco,Finance,96384
+3,High School,Data Scientist,San Francisco,Finance,109210
+13,Bachelors,Analyst,Remote,Education,99049
+15,PhD,Manager,Austin,Healthcare,138559
+14,High School,Data Scientist,New York,Finance,129262
+7,Masters,Software Engineer,San Francisco,Finance,128908
+13,Masters,Software Engineer,San Francisco,Finance,134375
+7,High School,Analyst,New York,Education,69502
+20,High School,Software Engineer,Austin,Healthcare,123454
+15,PhD,Data Scientist,New York,Tech,138052
+12,PhD,Software Engineer,Austin,Education,113773
+17,Bachelors,Manager,San Francisco,Education,137112
+14,PhD,Manager,Austin,Healthcare,152198
+20,Masters,Analyst,Remote,Healthcare,128921
+12,Masters,Data Scientist,San Francisco,Education,129819
+8,High School,Manager,Remote,Tech,98973
+14,PhD,Manager,New York,Education,145267
+12,Bachelors,Data Scientist,New York,Healthcare,119794
+0,Masters,Software Engineer,New York,Tech,101405
+6,Masters,Software Engineer,Austin,Healthcare,104521
+8,Bachelors,Analyst,San Francisco,Tech,105687
+0,Bachelors,Software Engineer,New York,Finance,91230
+11,Masters,Data Scientist,New York,Healthcare,122596
+7,Masters,Manager,San Francisco,Healthcare,117535
+10,Bachelors,Software Engineer,New York,Education,102508
+18,Masters,Analyst,Remote,Healthcare,113057
+16,High School,Software Engineer,San Francisco,Healthcare,108482
+7,High School,Data Scientist,San Francisco,Finance,109899
+2,Bachelors,Analyst,San Francisco,Healthcare,97960
+2,PhD,Software Engineer,Remote,Finance,113591
+0,Bachelors,Analyst,San Francisco,Finance,87147
+4,Bachelors,Data Scientist,Remote,Finance,93051
+9,PhD,Manager,San Francisco,Finance,152703
+6,PhD,Data Scientist,Austin,Tech,117087
+8,PhD,Data Scientist,New York,Education,122876
+6,High School,Data Scientist,Austin,Tech,94750
+8,Masters,Data Scientist,New York,Healthcare,113158
+7,High School,Manager,Remote,Tech,94526
+11,Masters,Manager,Austin,Tech,120329
+1,High School,Analyst,San Francisco,Healthcare,75993
+0,Masters,Software Engineer,New York,Healthcare,98598
+15,High School,Manager,New York,Healthcare,109035
+4,PhD,Manager,Austin,Tech,125202
+2,Bachelors,Software Engineer,Remote,Tech,83901
+11,High School,Manager,Austin,Healthcare,106762
+7,Masters,Data Scientist,Remote,Education,103119
+2,PhD,Data Scientist,Remote,Education,108820
+0,High School,Software Engineer,New York,Finance,85626
+2,High School,Analyst,Austin,Healthcare,68852
+4,PhD,Analyst,Austin,Finance,113611
+14,High School,Software Engineer,Remote,Education,93716
+13,Bachelors,Software Engineer,Austin,Finance,116244
+2,High School,Data Scientist,San Francisco,Healthcare,91202
+0,Bachelors,Analyst,San Francisco,Healthcare,83490
+4,Bachelors,Manager,Austin,Healthcare,96685
+13,PhD,Data Scientist,Austin,Tech,128986
+6,High School,Software Engineer,Remote,Finance,95747
+8,PhD,Analyst,San Francisco,Education,112780
+14,High School,Manager,San Francisco,Education,112535
+14,High School,Manager,New York,Education,107407
+9,Masters,Data Scientist,Remote,Tech,117474
+12,High School,Analyst,New York,Tech,97525
+18,PhD,Analyst,San Francisco,Healthcare,149238
+6,Bachelors,Software Engineer,Remote,Education,81632
+16,High School,Analyst,Austin,Tech,103394
+19,Masters,Analyst,Remote,Healthcare,115823
+3,PhD,Data Scientist,Austin,Education,119725
+4,High School,Analyst,Austin,Finance,77062
+6,PhD,Manager,Remote,Healthcare,120549
+12,Masters,Data Scientist,Austin,Tech,127168
+14,Masters,Data Scientist,New York,Tech,135068
+10,PhD,Software Engineer,San Francisco,Healthcare,131073
+3,High School,Analyst,Austin,Healthcare,72350
+12,Bachelors,Software Engineer,New York,Tech,114219
+6,Masters,Manager,Austin,Finance,121264
+18,High School,Data Scientist,San Francisco,Education,123819
+1,High School,Data Scientist,New York,Finance,103052
+9,Bachelors,Data Scientist,San Francisco,Healthcare,112212
+12,Masters,Manager,San Francisco,Finance,137150
+20,Masters,Manager,New York,Tech,149558
+5,High School,Software Engineer,New York,Healthcare,99898
+11,High School,Software Engineer,New York,Education,90981
+11,Bachelors,Software Engineer,Remote,Tech,110195
+19,Bachelors,Analyst,New York,Tech,131388
+10,Masters,Data Scientist,New York,Education,115232
+6,PhD,Data Scientist,New York,Education,122844
+0,Masters,Software Engineer,New York,Finance,113141
+0,High School,Data Scientist,Austin,Healthcare,75104
+19,Masters,Software Engineer,Remote,Education,119982
+12,PhD,Analyst,San Francisco,Education,124091
+8,Bachelors,Analyst,New York,Healthcare,92926
+2,PhD,Manager,Austin,Education,108753
+6,PhD,Analyst,Austin,Education,98880
+5,PhD,Software Engineer,Austin,Finance,120170
+7,Bachelors,Analyst,San Francisco,Tech,100150
+8,PhD,Manager,New York,Tech,137168
+4,PhD,Data Scientist,Remote,Tech,105220
+0,PhD,Software Engineer,Remote,Tech,101654
+18,High School,Data Scientist,Austin,Education,113167
+9,PhD,Manager,San Francisco,Healthcare,130031
+11,Bachelors,Manager,San Francisco,Healthcare,125870
+14,PhD,Manager,San Francisco,Finance,164138
+8,PhD,Data Scientist,Remote,Finance,119951
+19,Bachelors,Data Scientist,Austin,Education,129362
+16,PhD,Data Scientist,New York,Healthcare,146095
+16,Bachelors,Data Scientist,Remote,Healthcare,110474
+19,PhD,Manager,Austin,Tech,152721
+11,Bachelors,Manager,Austin,Education,112791
+6,PhD,Software Engineer,New York,Education,115380
+1,PhD,Software Engineer,New York,Tech,114693
+2,High School,Data Scientist,New York,Education,77396
+16,High School,Analyst,San Francisco,Education,105846
+4,PhD,Analyst,New York,Finance,110931
+16,PhD,Manager,Austin,Healthcare,143443
+16,Masters,Manager,New York,Education,130480
+16,Bachelors,Manager,Austin,Finance,128322
+1,Masters,Software Engineer,Remote,Healthcare,95180
+1,High School,Software Engineer,San Francisco,Tech,92456
+4,High School,Manager,Remote,Finance,96045
+0,High School,Manager,Remote,Finance,79538
+0,High School,Manager,Austin,Healthcare,80417
+18,PhD,Analyst,Remote,Tech,137065
+1,High School,Software Engineer,Austin,Finance,82708
+20,PhD,Analyst,New York,Education,149596
+11,PhD,Analyst,New York,Education,121966
+5,High School,Manager,Austin,Education,88960
+3,High School,Manager,New York,Tech,94454
+10,Bachelors,Data Scientist,San Francisco,Finance,125667
+16,Masters,Data Scientist,Remote,Education,119237
+5,High School,Analyst,San Francisco,Tech,93540
+4,Bachelors,Software Engineer,Remote,Education,85783
+19,Bachelors,Manager,New York,Healthcare,131070
+1,Masters,Manager,San Francisco,Finance,115343
+5,PhD,Analyst,New York,Finance,110818
+10,High School,Data Scientist,Remote,Tech,97539
+15,Masters,Software Engineer,Austin,Tech,119483
+15,High School,Data Scientist,Austin,Finance,104235
+0,Bachelors,Data Scientist,San Francisco,Education,94942
+8,Bachelors,Data Scientist,New York,Education,116464
+5,PhD,Data Scientist,New York,Healthcare,121969
+15,Bachelors,Manager,San Francisco,Education,132192
+2,Bachelors,Manager,Austin,Tech,99409
+19,Masters,Data Scientist,Remote,Tech,132505
+3,High School,Software Engineer,San Francisco,Education,88595
+18,High School,Analyst,Remote,Tech,99548
+2,Masters,Software Engineer,Austin,Finance,105336
+18,PhD,Software Engineer,New York,Finance,152608
+19,High School,Software Engineer,Austin,Education,102659
+6,Bachelors,Data Scientist,San Francisco,Finance,121960
+19,High School,Manager,New York,Finance,132125
+8,Bachelors,Software Engineer,San Francisco,Healthcare,104221
+0,PhD,Data Scientist,San Francisco,Healthcare,119682
+7,Masters,Software Engineer,Austin,Finance,109507
+6,High School,Software Engineer,San Francisco,Education,90140
+17,Masters,Data Scientist,Austin,Healthcare,130954
+7,High School,Manager,New York,Tech,109429
+0,Bachelors,Manager,Austin,Tech,97373
+10,Masters,Analyst,New York,Tech,114874
+17,High School,Data Scientist,Austin,Education,111088
+9,Bachelors,Analyst,Remote,Finance,104951
+2,Masters,Analyst,Remote,Tech,91789
+6,Masters,Analyst,San Francisco,Education,105051
+15,High School,Manager,Austin,Healthcare,105440
+15,High School,Data Scientist,Austin,Finance,109674
+19,High School,Analyst,New York,Healthcare,108473
+16,Bachelors,Data Scientist,San Francisco,Education,121952
+1,High School,Data Scientist,Austin,Tech,81065
+0,Masters,Manager,San Francisco,Tech,115283
+15,Masters,Analyst,Remote,Education,110648
+11,High School,Analyst,Austin,Tech,91647
+4,High School,Data Scientist,Austin,Finance,95432
+4,PhD,Software Engineer,San Francisco,Education,116322
+8,Masters,Manager,Austin,Healthcare,108122
+8,Bachelors,Manager,San Francisco,Education,109303
+2,PhD,Manager,Austin,Finance,123279
+18,High School,Manager,New York,Finance,124951
+15,High School,Analyst,San Francisco,Education,105999
+15,Masters,Analyst,Austin,Education,120653
+2,High School,Software Engineer,Remote,Tech,80093
+19,Bachelors,Manager,Austin,Finance,136932
+0,Masters,Manager,Remote,Education,100453
+19,High School,Data Scientist,Remote,Education,106743
+10,Masters,Analyst,New York,Finance,118314
+16,High School,Manager,San Francisco,Education,116932
+7,High School,Software Engineer,Austin,Tech,87487
+3,High School,Software Engineer,New York,Finance,89059
+5,Bachelors,Analyst,Austin,Tech,90852
+7,Bachelors,Software Engineer,Remote,Tech,94802
+19,Masters,Software Engineer,San Francisco,Tech,143015
+2,High School,Analyst,Austin,Tech,76184
+15,High School,Manager,Austin,Finance,125953
+2,Bachelors,Manager,Remote,Tech,98747
+17,High School,Software Engineer,Austin,Tech,101575
+13,Bachelors,Software Engineer,Austin,Education,91230
+17,High School,Manager,Remote,Finance,123671
+1,Masters,Analyst,New York,Finance,95165
+2,High School,Software Engineer,Remote,Healthcare,69876
+15,High School,Data Scientist,New York,Finance,114149
+8,PhD,Analyst,San Francisco,Finance,121990
+3,Bachelors,Software Engineer,New York,Healthcare,95707
+0,High School,Software Engineer,New York,Finance,88795
+3,High School,Data Scientist,San Francisco,Finance,98117
+0,PhD,Data Scientist,New York,Finance,107044
+13,PhD,Manager,Remote,Finance,138268
+20,Bachelors,Analyst,New York,Healthcare,123959
+15,PhD,Analyst,San Francisco,Finance,137605
+19,Masters,Manager,Remote,Finance,143916
+7,PhD,Analyst,San Francisco,Healthcare,120923
+6,Masters,Analyst,San Francisco,Education,107896
+2,Bachelors,Analyst,Austin,Tech,84597
+16,Bachelors,Analyst,Austin,Education,100134
+0,Bachelors,Analyst,San Francisco,Healthcare,92982
+15,Bachelors,Data Scientist,San Francisco,Tech,129207
+11,Bachelors,Analyst,San Francisco,Healthcare,108863
+18,Masters,Data Scientist,Austin,Healthcare,128333
+13,Masters,Analyst,Austin,Finance,118783
+5,Bachelors,Manager,New York,Tech,105575
+5,PhD,Software Engineer,New York,Finance,124135
+12,High School,Data Scientist,San Francisco,Tech,122558
+18,Bachelors,Analyst,Remote,Healthcare,101140
+7,PhD,Manager,Remote,Healthcare,112932
+1,High School,Software Engineer,Austin,Education,77355
+20,Bachelors,Data Scientist,Austin,Tech,128953
+0,Bachelors,Software Engineer,Austin,Finance,86654
+14,Masters,Manager,San Francisco,Education,141199
+0,High School,Data Scientist,Remote,Education,64971
+4,High School,Software Engineer,New York,Education,90130
+15,PhD,Analyst,San Francisco,Finance,148389
+18,Masters,Data Scientist,New York,Education,131560
+3,Masters,Software Engineer,New York,Finance,121786
+2,Masters,Manager,San Francisco,Education,108971
+16,Masters,Manager,New York,Finance,150710
+16,High School,Data Scientist,Remote,Healthcare,105496
+11,High School,Software Engineer,New York,Healthcare,105508
+13,Bachelors,Data Scientist,Remote,Healthcare,115807
+20,Bachelors,Data Scientist,Remote,Healthcare,122160
+5,Masters,Software Engineer,Remote,Healthcare,93232
+2,Masters,Software Engineer,Austin,Education,94299
+8,Masters,Analyst,New York,Education,100611
+4,Bachelors,Software Engineer,San Francisco,Education,106066
+16,PhD,Manager,San Francisco,Finance,162682
+13,PhD,Data Scientist,New York,Finance,144173
+20,Bachelors,Data Scientist,Austin,Finance,135923
+2,Bachelors,Manager,Austin,Finance,97264
+0,Bachelors,Software Engineer,Remote,Healthcare,72141
+19,Bachelors,Manager,New York,Healthcare,141002
+20,Bachelors,Manager,New York,Healthcare,133715
+0,Bachelors,Analyst,San Francisco,Tech,84765
+2,Masters,Manager,New York,Education,109683
+17,Masters,Data Scientist,Austin,Finance,144928
+9,Masters,Manager,New York,Finance,136594
+2,Masters,Data Scientist,San Francisco,Healthcare,115980
+7,Bachelors,Data Scientist,Remote,Finance,100216
+13,PhD,Data Scientist,San Francisco,Finance,143890
+17,High School,Software Engineer,San Francisco,Education,119506
+14,Bachelors,Analyst,Remote,Healthcare,98386
+1,High School,Data Scientist,San Francisco,Education,83745
+9,PhD,Data Scientist,San Francisco,Tech,144640
+1,Masters,Software Engineer,New York,Tech,104781
+16,PhD,Data Scientist,New York,Tech,149279
+7,Bachelors,Manager,Remote,Healthcare,111825
+0,Masters,Manager,New York,Finance,111782
+8,Bachelors,Analyst,New York,Healthcare,102639
+10,Masters,Data Scientist,San Francisco,Healthcare,127285
+15,High School,Software Engineer,Austin,Finance,111342
+6,High School,Manager,New York,Education,102642
+9,High School,Software Engineer,Austin,Tech,95539
+2,PhD,Software Engineer,New York,Education,109691
+17,Bachelors,Manager,New York,Tech,139362
+12,PhD,Software Engineer,Remote,Healthcare,119175
+6,High School,Manager,Remote,Tech,87803
+3,Bachelors,Software Engineer,Remote,Healthcare,77775
+12,High School,Manager,Austin,Education,92168
+19,PhD,Data Scientist,San Francisco,Healthcare,165281
+0,PhD,Analyst,New York,Education,92483
+7,PhD,Manager,New York,Finance,137893
+13,High School,Manager,New York,Finance,119615
+15,Bachelors,Analyst,Austin,Finance,116537
+13,Bachelors,Manager,Remote,Healthcare,117078
+11,High School,Manager,San Francisco,Finance,126302
+18,Bachelors,Software Engineer,Austin,Tech,118084
+14,High School,Analyst,Remote,Education,85164
+1,Bachelors,Data Scientist,Austin,Education,86412
+1,Masters,Manager,San Francisco,Tech,115756
+18,Masters,Analyst,Remote,Healthcare,126036
+16,PhD,Software Engineer,Austin,Healthcare,136454
+19,Masters,Data Scientist,San Francisco,Education,144674
+9,Masters,Analyst,New York,Finance,121314
+5,Masters,Data Scientist,San Francisco,Healthcare,122867
+14,High School,Data Scientist,New York,Healthcare,110905
+10,Masters,Data Scientist,Austin,Tech,113515
+4,Masters,Manager,Remote,Tech,109998
+0,PhD,Manager,Remote,Finance,111743
+7,Masters,Software Engineer,Austin,Healthcare,103356
+20,Masters,Software Engineer,Remote,Healthcare,129931
+11,Bachelors,Analyst,Remote,Tech,103191
+11,PhD,Software Engineer,New York,Healthcare,129106
+4,PhD,Data Scientist,Austin,Education,112544
+6,PhD,Data Scientist,San Francisco,Tech,140511
+3,PhD,Manager,New York,Finance,132203
+5,PhD,Data Scientist,Austin,Tech,133008
+12,PhD,Analyst,New York,Healthcare,128827
+19,High School,Data Scientist,San Francisco,Finance,124196
+14,Masters,Data Scientist,San Francisco,Tech,141766
+2,PhD,Analyst,Austin,Education,98905
+7,Masters,Software Engineer,San Francisco,Education,118448
+19,Masters,Software Engineer,New York,Tech,141365
+15,High School,Analyst,San Francisco,Education,102307
+12,PhD,Manager,New York,Education,130878
+17,Bachelors,Data Scientist,New York,Education,120954
+9,High School,Analyst,San Francisco,Finance,98747
+18,Bachelors,Data Scientist,Austin,Education,116097
+16,Masters,Manager,Remote,Education,127942
+18,Masters,Data Scientist,San Francisco,Education,147349
+4,High School,Analyst,New York,Finance,89973
+20,High School,Data Scientist,New York,Tech,119020
+8,Bachelors,Software Engineer,San Francisco,Healthcare,110223
+11,PhD,Manager,Austin,Education,135983
+20,Bachelors,Manager,Austin,Tech,131951
+0,High School,Manager,New York,Education,82329
+0,Bachelors,Analyst,New York,Finance,90073
+14,High School,Manager,Austin,Tech,109075
+1,Bachelors,Software Engineer,Remote,Finance,90241
+15,High School,Analyst,San Francisco,Education,102395
+7,High School,Software Engineer,New York,Education,89097
+12,High School,Data Scientist,New York,Finance,109562
+20,PhD,Data Scientist,Austin,Healthcare,144812
+0,Bachelors,Data Scientist,San Francisco,Finance,108611
+15,Bachelors,Data Scientist,Austin,Education,111135
+6,Bachelors,Software Engineer,San Francisco,Finance,120634
+4,High School,Analyst,San Francisco,Healthcare,83001
+2,Bachelors,Analyst,San Francisco,Finance,100123
+11,Bachelors,Manager,New York,Healthcare,123662
+15,High School,Software Engineer,Remote,Healthcare,89908
+18,Masters,Data Scientist,Austin,Finance,132195
+4,High School,Software Engineer,Remote,Finance,75371
+13,Bachelors,Manager,Austin,Tech,127312
+4,High School,Manager,San Francisco,Education,93240
+14,Masters,Software Engineer,New York,Healthcare,137790
+16,High School,Software Engineer,Remote,Tech,99178
+13,Bachelors,Software Engineer,New York,Finance,121922
+19,Masters,Analyst,Austin,Education,128710
+4,PhD,Data Scientist,New York,Tech,133030
+11,Bachelors,Software Engineer,New York,Healthcare,119307
+15,Masters,Software Engineer,Remote,Tech,126041
+15,Masters,Software Engineer,San Francisco,Healthcare,137120
+20,PhD,Manager,New York,Finance,167962
+6,High School,Manager,San Francisco,Education,103891
+3,High School,Analyst,Austin,Education,66244
+0,Bachelors,Data Scientist,New York,Education,83909
+4,PhD,Analyst,Remote,Finance,107983
+9,High School,Data Scientist,Austin,Healthcare,94149
+4,PhD,Manager,Austin,Finance,125733
+3,High School,Manager,Remote,Education,82481
+1,Masters,Manager,New York,Finance,121776
+19,High School,Analyst,New York,Finance,118442
+9,PhD,Software Engineer,Austin,Finance,135387
+18,Masters,Software Engineer,New York,Healthcare,127291
+0,Masters,Manager,San Francisco,Tech,114031
+4,Masters,Software Engineer,Remote,Tech,94415
+12,PhD,Software Engineer,San Francisco,Finance,134667
+3,Bachelors,Analyst,New York,Tech,90586
+15,Bachelors,Data Scientist,Austin,Tech,119391
+15,Bachelors,Manager,Remote,Finance,132567
+1,PhD,Manager,New York,Finance,130154
+16,Masters,Analyst,New York,Education,114879
+19,Bachelors,Analyst,Austin,Tech,127270
+11,PhD,Software Engineer,Austin,Healthcare,130105
+17,Bachelors,Manager,San Francisco,Finance,146910
+2,High School,Data Scientist,Remote,Education,70867
+0,Bachelors,Analyst,Remote,Healthcare,67202
+0,Bachelors,Data Scientist,Austin,Tech,88138
+18,Masters,Data Scientist,San Francisco,Education,144443
+10,PhD,Manager,Remote,Finance,144422
+4,Masters,Manager,Austin,Healthcare,117716
+11,Masters,Analyst,New York,Finance,119555
+2,Masters,Manager,Remote,Tech,98401
+0,Masters,Manager,San Francisco,Healthcare,112704
+0,Masters,Manager,San Francisco,Tech,106157
+7,Bachelors,Data Scientist,San Francisco,Tech,115615
+9,Masters,Analyst,New York,Education,105261
+10,Masters,Software Engineer,Remote,Finance,112669
+11,PhD,Data Scientist,Remote,Healthcare,116026
+12,High School,Manager,New York,Tech,116568
+11,Bachelors,Data Scientist,Remote,Tech,104336
+13,Bachelors,Manager,New York,Healthcare,117150
+1,Bachelors,Manager,New York,Tech,87638
+18,Masters,Data Scientist,New York,Education,133862
+17,Masters,Analyst,San Francisco,Education,135861
+2,Masters,Manager,Remote,Education,105306
+16,PhD,Analyst,New York,Education,127714
+7,High School,Software Engineer,Remote,Tech,80988
+9,Masters,Manager,San Francisco,Healthcare,132343
+1,High School,Analyst,New York,Healthcare,69008
+18,PhD,Analyst,Austin,Healthcare,134508
+8,Bachelors,Software Engineer,San Francisco,Healthcare,111830
+6,Masters,Analyst,Austin,Finance,113134
+3,High School,Analyst,Remote,Healthcare,67499
+20,High School,Software Engineer,Remote,Finance,113981
+17,Masters,Manager,San Francisco,Finance,149610
+12,Bachelors,Analyst,Remote,Education,87865
+10,Bachelors,Analyst,Austin,Finance,103867
+3,Bachelors,Analyst,New York,Tech,92836
+20,PhD,Data Scientist,New York,Finance,164567
+3,High School,Software Engineer,New York,Education,74984
+9,High School,Data Scientist,San Francisco,Finance,120463
+4,High School,Software Engineer,Remote,Tech,76644
+8,PhD,Manager,Austin,Tech,130893
+2,High School,Manager,Remote,Tech,80263
+16,PhD,Analyst,Remote,Education,107878
+2,Bachelors,Software Engineer,Remote,Education,81420
+15,Masters,Manager,New York,Healthcare,140684
+3,High School,Software Engineer,Austin,Education,72593
+17,High School,Manager,Austin,Tech,119334
+16,Bachelors,Data Scientist,Remote,Tech,119579
+6,Masters,Manager,New York,Education,107187
+4,PhD,Data Scientist,New York,Finance,125354
+11,Masters,Manager,Austin,Education,123971
+16,Bachelors,Analyst,New York,Education,103728
+12,Bachelors,Data Scientist,New York,Tech,120467
+2,Masters,Manager,New York,Healthcare,104217
+8,PhD,Analyst,San Francisco,Tech,128332
+16,PhD,Data Scientist,Remote,Healthcare,133821
+16,High School,Analyst,Austin,Tech,93924
+19,PhD,Software Engineer,Austin,Education,141823
+15,Masters,Software Engineer,San Francisco,Tech,131327
+12,Bachelors,Data Scientist,Remote,Tech,104948
+18,High School,Manager,Austin,Tech,122002
+16,High School,Data Scientist,New York,Education,115743
+3,Bachelors,Analyst,Austin,Education,73920
+11,PhD,Manager,New York,Education,135308
+8,Bachelors,Software Engineer,San Francisco,Education,106144
+18,PhD,Manager,New York,Healthcare,156465
+11,Bachelors,Software Engineer,Austin,Healthcare,104882
+8,Masters,Manager,Austin,Finance,124164
